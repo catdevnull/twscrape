@@ -37,6 +37,7 @@ GQL_FEATURES = {  # search values here (view source) https://twitter.com/
     "responsive_web_graphql_skip_user_profile_image_extensions_enabled": False,
     "responsive_web_graphql_timeline_navigation_enabled": True,
     "responsive_web_twitter_article_tweet_consumption_enabled": True,
+    "responsive_web_media_download_video_enabled": True,
     "rweb_video_timestamps_enabled": True,
     "standardized_nudges_misinfo": True,
     "tweet_awards_web_tipping_enabled": False,
